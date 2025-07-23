@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://andre-almeida-2121.github.io)
+- Solution URL: (https://qr-code-component-fgl4.vercel.app/)
 - Live Site URL: (http://127.0.0.1:5500/qr-code-component-main/index.html)
 
 ## My process
