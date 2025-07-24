@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Minha solução para o desafio do QR CODE Component!](image.png)
+![Minha solução para o desafio do QR CODE Component!](image-1.png)
 
 ### Links
 
-- Solution URL: (https://qr-code-component-fgl4.vercel.app/)
-- Live Site URL: (http://127.0.0.1:5500/qr-code-component-main/index.html)
+- Solution URL: (https://github.com/andre-almeida-2121/QR-CODE-component)
+- Live Site URL: (https://qr-code-component-fgl4.vercel.app/)
 
 ## My process
 
